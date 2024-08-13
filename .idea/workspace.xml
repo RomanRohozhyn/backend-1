@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68916cfd-0f15-4196-ad6b-413199433de6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeuProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean_type/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Do_while/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Do_while/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Do_while/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For_Loop/BreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For_Loop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For_Loop/Main_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GradVon/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktika_07_08_24/CubeOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktika_08_08_24/MultiplicationOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktika_08_08_24/TriangleOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktika_11_08_24/ForPraktika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktika_11_08_24/TriangleNumbersFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_02_08_24/Calkulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_05_08_24/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_05_08_24/Fahrenheit_Celsius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_06_08_24/Positiv_or_Negativ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_06_08_24/Vowel_Consonant_Letter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_29_07_24/Char_ASCII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_29_07_24/Char_ubung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_29_07_24/Ubung_math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_30_07_24/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_30_07_24/Main_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum_31_07_24/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintFormat/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch_/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch_/HelpSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch_/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch_/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TruthTable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/While/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZahlenDividieren/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/char_type/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner_class/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,9 +121,18 @@
       <option name="presentableId" value="Default" />
       <updated>1722183922221</updated>
     </task>
+    <task id="LOCAL-00001" summary="neu For">
+      <created>1723557043624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723557043624</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="neu For" />
+    <option name="LAST_COMMIT_MESSAGE" value="neu For" />
   </component>
 </project>
