@@ -22,7 +22,7 @@ public class TriangleNumbersFor {
             }
 
            // i++;
-            System.out.println();
+            System.out.println("");
 
         }
 
