@@ -17,7 +17,7 @@ public class Main {
         d = 2;
 
         if(d != 0 && ( n % d ) == 0){
-            System.out.println("can be divided without remainder");
+            System.out.println("can be divided without remainder.");
         }
 
 
