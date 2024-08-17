@@ -26,7 +26,7 @@ public class Fruits {
         {
            if (i % 2 == 0)
            {
-               System.out.println("even elements " + fruits[i]);
+               System.out.println("even elements ; " + fruits[i]);
            }
         }
 
