@@ -6,8 +6,8 @@ public class ArrayEqual {
 
     public static void main(String[] args) {
 
-     int[] array1 = {6,2,3,7};
-     int[] array2 = {6,7,3,7};
+     int[] array1 = {6,2,3};
+     int[] array2 = {6,2,3};
 
         System.out.println(areEqual(array1,array2));
 
@@ -25,16 +25,12 @@ public class ArrayEqual {
         }
 
         for (i = 0; i < array1.length; i++) {
-            int ar1 = array1[i];
 
-            for (int ar2 : array2) {
-                ar1++;
-                if (ar2 == ar1) {
-                    System.out.println(true);
-                }
+         if(array1[i] != array2[i]){
+             return false;
+         }
 
-            }
 
-        }return false;
+        }return true;
     }
 }
