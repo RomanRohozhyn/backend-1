@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68916cfd-0f15-4196-ad6b-413199433de6" name="Changes" comment="" />
+    <list default="true" id="68916cfd-0f15-4196-ad6b-413199433de6" name="Changes" comment="array equal neu">
+      <change afterPath="$PROJECT_DIR$/src/Praktika_20_08_24/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TypeConversion/TypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble_sort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TriangleNumbersFor">
+  <component name="RunManager" selected="Application.Praktika_20_08_24.Main">
     <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_Loop.BreakContinue" />
       <module name="NeuProject" />
@@ -61,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_Loop.Main" />
+    <configuration name="Main_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_Loop.Main_1" />
       <module name="NeuProject" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For_Loop.Main_1" />
+    <configuration name="Praktika_20_08_24.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktika_20_08_24.Main" />
       <module name="NeuProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="For_Loop.*" />
+          <option name="PATTERN" value="Praktika_20_08_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Praktika_20_08_24.Main" />
         <item itemvalue="Application.TriangleNumbersFor" />
         <item itemvalue="Application.ForPraktika" />
         <item itemvalue="Application.BreakContinue" />
         <item itemvalue="Application.Main_1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
