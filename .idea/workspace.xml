@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68916cfd-0f15-4196-ad6b-413199433de6" name="Changes" comment="array equal neu">
-      <change afterPath="$PROJECT_DIR$/src/Praktika_20_08_24/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeConversion/TypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bubble_sort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Praktika_21_08_24/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/our_strings/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
