@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68916cfd-0f15-4196-ad6b-413199433de6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Praktika_22_08_24/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Praktika_22_08_24/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Color">
+    <configuration name="Color" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktika_22_08_24.Color" />
+      <module name="NeuProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktika_22_08_24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Praktika_22_08_24.Main" />
       <module name="NeuProject" />
@@ -77,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleNumbersFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktika_11_08_24.TriangleNumbersFor" />
-      <module name="NeuProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Praktika_11_08_24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="stringKankat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Praktika_21_08_24.stringKankat" />
       <module name="NeuProject" />
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Color" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.stringKankat" />
         <item itemvalue="Application.Praktika_20_08_24.Main" />
-        <item itemvalue="Application.TriangleNumbersFor" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724275013951</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="neue Figura aus zahlen">
+      <created>1724354208978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724354208978</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +172,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="neu For" />
     <MESSAGE value="array equal neu" />
-    <option name="LAST_COMMIT_MESSAGE" value="array equal neu" />
+    <MESSAGE value="neue Figura aus zahlen" />
+    <option name="LAST_COMMIT_MESSAGE" value="neue Figura aus zahlen" />
   </component>
 </project>
