@@ -14,7 +14,6 @@ public class Main {
              i = 10;
             while (j < i)
             {
-
                 System.out.print(a);
                 j++;
 
@@ -22,16 +21,28 @@ public class Main {
 
             System.out.println();
             System.out.print(a);
-            System.out.print(" ");
-            System.out.print(" ");
-            System.out.print(" ");
-            System.out.print(" ");
-            System.out.print(" ");
-            System.out.print(" ");
-            System.out.print(" ");
-            System.out.print(" ");
+            System.out.print(" "+" "+" "+ " "+" "+" "+" "+" ");
             System.out.print(a);
-            i++;
+
+            System.out.println();
+            System.out.print(a);
+            System.out.print(" "+" "+" "+ " "+" "+" "+" "+" ");
+            System.out.print(a);
+
+            System.out.println();
+
+            j = 0;
+            i = 10;
+
+
+            while (j < i)
+            {
+                System.out.print(a);
+                j++;
+
+            }
+
+
 
 
 

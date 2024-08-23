@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68916cfd-0f15-4196-ad6b-413199433de6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NeuFigureAusZahlen/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktika_23_08_24/NeuFigure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NeuFigureAusZahlen/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NeuFigureAusZahlen/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724439093005</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="neu figure">
+      <created>1724445330085</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724445330085</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,6 +195,7 @@
     <MESSAGE value="array equal neu" />
     <MESSAGE value="neue Figura aus zahlen" />
     <MESSAGE value="fehler Color" />
-    <option name="LAST_COMMIT_MESSAGE" value="fehler Color" />
+    <MESSAGE value="neu figure" />
+    <option name="LAST_COMMIT_MESSAGE" value="neu figure" />
   </component>
 </project>
