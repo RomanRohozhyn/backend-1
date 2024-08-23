@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68916cfd-0f15-4196-ad6b-413199433de6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Praktika_23_08_24/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NeuFigureAusZahlen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Praktika_23_08_24/NeuFigure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Praktika_22_08_24/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Praktika_22_08_24/Color.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Praktika_23_08_24.Main">
+  <component name="RunManager" selected="Application.NeuFigureAusZahlen.Main">
     <configuration name="Color" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Praktika_22_08_24.Color" />
       <module name="NeuProject" />
@@ -65,12 +65,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktika_21_08_24.Main1" />
+    <configuration name="NeuFigure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktika_23_08_24.NeuFigure" />
       <module name="NeuProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktika_21_08_24.*" />
+          <option name="PATTERN" value="Praktika_23_08_24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeuFigureAusZahlen.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeuFigureAusZahlen.Main" />
+      <module name="NeuProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NeuFigureAusZahlen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringKankat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktika_21_08_24.stringKankat" />
-      <module name="NeuProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Praktika_21_08_24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NeuFigureAusZahlen.Main" />
+        <item itemvalue="Application.NeuFigure" />
         <item itemvalue="Application.Praktika_23_08_24.Main" />
         <item itemvalue="Application.Color" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.stringKankat" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724355348109</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fehler Color">
+      <created>1724439093005</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724439093005</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
