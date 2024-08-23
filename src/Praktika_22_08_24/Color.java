@@ -7,7 +7,7 @@ public class Color {
         Color red = new Color();
 
         System.out.println(red);
-          colorRed = new java.awt.Color(0xFF560C0C, true);
+        //int  colorRed = new java.awt.Color(0xFF560C0C, true);
 
     }
 }
