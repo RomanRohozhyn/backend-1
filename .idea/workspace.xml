@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68916cfd-0f15-4196-ad6b-413199433de6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Praktika_26_08_24/LetterFirstToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktika_26_08_24/LetterFirstToEnd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Praktika_26_08_24/deleteLetter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LetterFirstToEnd1">
+  <component name="RunManager" selected="Application.deleteLetter">
     <configuration name="LetterFirstToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Praktika_26_08_24.LetterFirstToEnd" />
       <module name="NeuProject" />
@@ -58,19 +57,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Praktika_26_08_24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktika_22_08_24.Main" />
-      <module name="NeuProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Praktika_22_08_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,13 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="deleteLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktika_26_08_24.deleteLetter" />
+      <module name="NeuProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktika_26_08_24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.deleteLetter" />
         <item itemvalue="Application.LetterFirstToEnd1" />
         <item itemvalue="Application.LetterFirstToEnd" />
         <item itemvalue="Application.NeuFigureAusZahlen.Main" />
         <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1724448063179</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="first letter to end change">
+      <created>1724684385152</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724684385152</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,6 +219,7 @@
     <MESSAGE value="neu figure" />
     <MESSAGE value="neu figure 1" />
     <MESSAGE value="neu figure 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="neu figure 2" />
+    <MESSAGE value="first letter to end change" />
+    <option name="LAST_COMMIT_MESSAGE" value="first letter to end change" />
   </component>
 </project>
